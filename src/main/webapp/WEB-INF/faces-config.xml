@@ -95,11 +95,6 @@
         <managed-bean-scope>session</managed-bean-scope>
     </managed-bean>
     <managed-bean>
-        <managed-bean-name>beanReportes</managed-bean-name>
-        <managed-bean-class>controller.beanReportes</managed-bean-class>
-        <managed-bean-scope>session</managed-bean-scope>
-    </managed-bean>
-    <managed-bean>
         <managed-bean-name>beanCambioClave</managed-bean-name>
         <managed-bean-class>controller.beanCambioClave</managed-bean-class>
         <managed-bean-scope>session</managed-bean-scope>
